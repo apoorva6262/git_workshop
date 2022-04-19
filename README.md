@@ -3,3 +3,4 @@ workshop uo
 a line of text for this workshop
 from remote repo
 line from feature branch
+some conflict
